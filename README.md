@@ -3,8 +3,8 @@
 Sinkhole ist ein kooperatives Taktikspiel für bis zu vier Spieler: Jeder führt einen eigenen Trupp,
 gemeinsam versiegelt ihr Löcher, aus denen ein Insektenschwarm kriecht.
 
-**Herunterladen:** rechts unter **Releases** die neueste Fassung öffnen und die Zip-Datei für dein System laden
-(Windows oder Linux, jeweils knapp 1 GB).
+**Herunterladen:** rechts unter **Releases** die neueste Fassung öffnen und die Datei für dein System laden:
+Windows, Linux oder macOS (Zip, jeweils knapp 1 GB) oder Meta Quest (APK, gut 500 MB).
 
 ## Windows in Kürze
 
@@ -15,6 +15,12 @@ gemeinsam versiegelt ihr Löcher, aus denen ein Insektenschwarm kriecht.
 4. Zum Mitspielen: **BEITRETEN**, die Adresse des Gastgebers eintragen, Port 7777 lassen, **VERBINDEN**.
 
 Die ausführliche Anleitung liegt als **ANLEITUNG.txt** im Ordner.
+
+## macOS und Meta Quest
+
+- **macOS:** Schritt für Schritt in **ANLEITUNG_MAC.txt** (beim Release).
+- **Meta Quest:** Die APK wird per Kabel auf die Brille gespielt (Entwicklermodus nötig), Schritt für Schritt in
+  **ANLEITUNG_QUEST.txt** (beim Release). Zum Spielen kein Kabel nötig; den Gastgeber einer Partie macht ein PC.
 
 ## Gut zu wissen
 
